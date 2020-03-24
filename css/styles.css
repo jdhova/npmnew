@@ -1,0 +1,33 @@
+
+
+
+.nav-1 {
+ display: flex;
+ justify-content: space-around;
+ color: white;
+ background: black;
+ padding: 15px;
+ border-bottom: 15px solid purple;
+}
+
+.smallnav{
+	background: white;
+	color: black;
+	border-bottom: 2px solid black;
+}
+.smallnav ul {
+	float: right;
+	display: flex;
+	width: 40%;
+}
+
+
+
+.smallnav-2 ul{
+	display: flex;
+	justify-content: space-around;
+	list-style-type: none;
+	padding-top: 1px;
+	margin-top: -29px;
+
+}

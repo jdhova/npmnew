@@ -13,7 +13,10 @@
 .smallnav{
 	background: white;
 	color: black;
-	border-bottom: 2px solid black;
+	border-bottom-style: inset;
+	padding-bottom: 20px;
+	padding-top: 10px;
+	padding-left: 100px;
 }
 .smallnav ul {
 	float: right;
@@ -31,3 +34,138 @@
 	margin-top: -29px;
 
 }
+
+
+.mediumnav{
+	display: flex;
+
+}
+
+
+
+.main-container{
+	height: 600px;
+	background: url(../images/rainb.jpeg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-top: 0px;
+
+}
+
+
+
+/*
+form.example{
+	padding-left: 80px;
+}
+*/
+
+
+.mediumnav{
+	border-bottom: 15px solid purple;
+	padding-bottom: 30px;
+}
+
+
+
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  /*float: left;*/
+  width: 50%;
+  background: #f1f1f1;
+ float: right;
+
+}
+
+
+
+
+
+
+/*.button-Search{
+	float: right;
+}*/
+
+/*.mediumnav{
+	display: flex;
+}
+
+.imge{
+	float: right;
+}
+*/
+
+
+/*.example  {
+	width: 60%
+	padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+   background: #f1f1f1;
+}
+*/
+
+
+/*
+.mediumnav {
+display: flex;
+justify-content: space-around;
+}
+
+
+/*
+ .button-Search {
+ background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+ 
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.
+ .button-Signin {
+ background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}*/
+
+
+
+
+/*form.example button {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+}
+*/
+/*form.example button:hover {
+  background: #0b7dda;
+}
+
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}*/
+
